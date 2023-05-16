@@ -1,0 +1,12 @@
+canvas
+{
+    box-shadow: rgb(255, 90, 76);
+    padding:89px;
+
+}
+
+.note
+{
+    font-size:30px;
+    color:rgb(0, 0, 0);
+}
